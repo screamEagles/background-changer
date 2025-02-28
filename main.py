@@ -1,5 +1,5 @@
 import cv2
-import cvzone
+import cvzone  # cvzone version: 1.3.5
 from cvzone.SelfiSegmentationModule import SelfiSegmentation
 import os
 
